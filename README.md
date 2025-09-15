@@ -104,7 +104,7 @@ src/
 │   ├── slices/         # Redux slices
 │   └── thunks/         # Async thunks
 ├── services/           # API service functions
-└── types/              # TypeScript type definitions
+
 ```
 
 ### State Management
