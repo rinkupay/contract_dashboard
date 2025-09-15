@@ -53,7 +53,7 @@ A modern, production-ready SaaS contracts management dashboard built with React,
    cd contracts-dashboard
    ```
 
- **Deployed on Vercel**  LINK : https://contract-dashboard-indol.vercel.app/login
+ **Deployed on Vercel**  LINK : https://contract-dashboard-indol.vercel.app
 
 2. **Install dependencies**
    ```bash
