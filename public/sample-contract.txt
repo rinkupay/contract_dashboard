@@ -1,0 +1,45 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement is entered into on January 1, 2024, between TechCorp Solutions Inc., a Delaware corporation ("Licensor") and ABC Corporation, a California corporation ("Licensee").
+
+1. LICENSE GRANT
+Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software for a period of 24 months commencing on the Effective Date and ending on December 31, 2025.
+
+2. TERMINATION
+Either party may terminate this Agreement with 90 days written notice. Upon termination, Licensee must cease all use of the Software.
+
+3. LIABILITY CAP
+Licensor's total liability shall not exceed 12 months of license fees paid by Licensee under this Agreement. This limitation does not apply to data breach costs or willful misconduct.
+
+4. DATA PROTECTION
+Licensee retains ownership of all data and intellectual property created using the Software. Licensor will comply with GDPR requirements and implement appropriate security measures.
+
+5. RENEWAL
+This Agreement will automatically renew for additional 12-month periods unless either party provides 60 days written notice of non-renewal.
+
+6. FORCE MAJEURE
+Neither party shall be liable for delays due to circumstances beyond their reasonable control, including but not limited to acts of God, government actions, or natural disasters.
+
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+
+8. INTELLECTUAL PROPERTY
+All rights, title, and interest in the Software remain with Licensor. Licensee may not reverse engineer, decompile, or disassemble the Software.
+
+9. SUPPORT AND MAINTENANCE
+Licensor will provide technical support during business hours and regular software updates as part of the license fee.
+
+10. CONFIDENTIALITY
+Both parties agree to maintain the confidentiality of all proprietary information disclosed during the term of this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written above.
+
+Licensor: TechCorp Solutions Inc.
+By: _________________________
+Title: CEO
+Date: _______________________
+
+Licensee: ABC Corporation
+By: _________________________
+Title: CTO
+Date: _______________________

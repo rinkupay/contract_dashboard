@@ -1,0 +1,61 @@
+CLOUD SERVICES AGREEMENT
+
+Agreement Date: March 15, 2024
+Effective Date: April 1, 2024
+Expiry Date: March 31, 2026
+
+PARTIES:
+CloudTech Solutions LLC ("Provider")
+1234 Tech Street, San Francisco, CA 94105
+
+Global Enterprises Inc. ("Customer")
+5678 Business Ave, New York, NY 10001
+
+1. SERVICES PROVIDED
+Provider agrees to deliver cloud infrastructure services including:
+- Virtual servers and storage
+- Database hosting
+- Backup and disaster recovery
+- 24/7 technical support
+- Security monitoring
+
+2. SERVICE LEVEL AGREEMENT
+Provider guarantees 99.9% uptime availability. Service credits will be provided for any downtime exceeding 0.1% per month.
+
+3. TERMINATION CLAUSE
+Either party may terminate this agreement with 60 days written notice. Customer may terminate immediately for material breach.
+
+4. LIABILITY LIMITATIONS
+Provider's total liability is limited to 6 months of service fees. This cap excludes data breach costs and gross negligence.
+
+5. DATA PROTECTION
+Customer retains ownership of all data. Provider will implement industry-standard security measures and comply with SOC 2 requirements.
+
+6. FORCE MAJEURE
+Neither party is liable for delays caused by circumstances beyond reasonable control, including natural disasters, government actions, or cyber attacks.
+
+7. RENEWAL TERMS
+This agreement auto-renews for 12-month periods unless terminated with 30 days notice before expiry.
+
+8. INTELLECTUAL PROPERTY
+All Provider software and systems remain Provider's property. Customer may not reverse engineer or copy any Provider technology.
+
+9. CONFIDENTIALITY
+Both parties agree to protect confidential information and not disclose it to third parties without written consent.
+
+10. GOVERNING LAW
+This agreement is governed by California state law and any disputes will be resolved in San Francisco courts.
+
+SIGNATURES:
+
+Provider: CloudTech Solutions LLC
+By: _________________________
+Name: Sarah Johnson
+Title: CEO
+Date: _______________________
+
+Customer: Global Enterprises Inc.
+By: _________________________
+Name: Michael Chen
+Title: CTO
+Date: _______________________

@@ -1,0 +1,150 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1200
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(SOFTWARE LICENSE AGREEMENT) Tj
+0 -20 Td
+/F1 10 Tf
+(This Agreement is entered into on January 1, 2024, between) Tj
+0 -15 Td
+(TechCorp Solutions Inc., a Delaware corporation) Tj
+0 -15 Td
+(("Licensor") and ABC Corporation, a California corporation) Tj
+0 -15 Td
+(("Licensee").) Tj
+0 -30 Td
+/F1 12 Tf
+(1. LICENSE GRANT) Tj
+0 -20 Td
+/F1 10 Tf
+(Licensor hereby grants to Licensee a non-exclusive, non-transferable) Tj
+0 -15 Td
+(license to use the Software for a period of 24 months commencing) Tj
+0 -15 Td
+(on the Effective Date and ending on December 31, 2025.) Tj
+0 -30 Td
+/F1 12 Tf
+(2. TERMINATION) Tj
+0 -20 Td
+/F1 10 Tf
+(Either party may terminate this Agreement with 90 days written notice.) Tj
+0 -15 Td
+(Upon termination, Licensee must cease all use of the Software.) Tj
+0 -30 Td
+/F1 12 Tf
+(3. LIABILITY CAP) Tj
+0 -20 Td
+/F1 10 Tf
+(Licensor's total liability shall not exceed 12 months of license fees paid) Tj
+0 -15 Td
+(by Licensee under this Agreement.) Tj
+0 -30 Td
+/F1 12 Tf
+(4. DATA PROTECTION) Tj
+0 -20 Td
+/F1 10 Tf
+(Licensee retains ownership of all data and intellectual property) Tj
+0 -15 Td
+(created using the Software. Licensor will comply with GDPR requirements.) Tj
+0 -30 Td
+/F1 12 Tf
+(5. RENEWAL) Tj
+0 -20 Td
+/F1 10 Tf
+(This Agreement will automatically renew for additional 12-month periods) Tj
+0 -15 Td
+(unless either party provides 60 days written notice of non-renewal.) Tj
+0 -30 Td
+/F1 12 Tf
+(6. FORCE MAJEURE) Tj
+0 -20 Td
+/F1 10 Tf
+(Neither party shall be liable for delays due to circumstances beyond) Tj
+0 -15 Td
+(their reasonable control, including but not limited to acts of God,) Tj
+0 -15 Td
+(government actions, or natural disasters.) Tj
+0 -30 Td
+/F1 12 Tf
+(7. GOVERNING LAW) Tj
+0 -20 Td
+/F1 10 Tf
+(This Agreement shall be governed by the laws of the State of California.) Tj
+0 -30 Td
+(IN WITNESS WHEREOF, the parties have executed this Agreement) Tj
+0 -15 Td
+(on the date first written above.) Tj
+0 -30 Td
+(Licensor: TechCorp Solutions Inc.) Tj
+0 -15 Td
+(By: _________________________) Tj
+0 -15 Td
+(Title: CEO) Tj
+0 -30 Td
+(Licensee: ABC Corporation) Tj
+0 -15 Td
+(By: _________________________) Tj
+0 -15 Td
+(Title: CTO) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001490 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1570
+%%EOF
