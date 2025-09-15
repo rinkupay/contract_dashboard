@@ -130,12 +130,6 @@ src/
 
 
 
-
-
-
-
-
-
 ## 🙏 Acknowledgments
 
 - **Design Inspiration**: Modern SaaS dashboard patterns
